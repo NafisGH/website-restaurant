@@ -1,0 +1,87 @@
+.header_header_img {
+  width: 1440px;
+  height: 800px;
+  background-image: url("/images/header-bg.png");
+}
+
+.header {
+    display: flex;
+
+}
+
+.header_navblock {
+    color: #FFFFFF;
+}
+.navblock_ul {
+    list-style-type: none;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+}
+.header_text {
+color: #FFFFFF;
+
+
+}
+
+.header_restaurant {
+    display: flex;
+justify-content: center;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.5em;
+text-transform: uppercase;
+height: 18.39px;
+margin-top: 150px;
+}
+.header_hungry_people {
+    display: flex;
+justify-content: center;
+font-family: 'Banny';
+font-weight: 700;
+font-size: 96px;
+line-height: 0px;
+text-transform: uppercase;
+align-items: center;
+height: 139px;
+}
+
+.header_text_color {
+    width: 60px;
+height: 5.11px;
+background: #E8C300;
+border-radius: 50px;
+margin-left: 48%;
+}
+
+.header_input {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    margin-top: 31px;
+}
+.input_book {
+    margin-right: 40px;
+    border: solid 1px white;
+    background: #E8C300;
+border-radius: 5px;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.input_explore {
+    border: solid 1px white;
+    background: #E8C300;
+border-radius: 5px;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+
